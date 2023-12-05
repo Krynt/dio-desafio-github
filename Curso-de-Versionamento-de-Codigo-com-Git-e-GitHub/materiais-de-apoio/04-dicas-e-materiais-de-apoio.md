@@ -16,6 +16,8 @@ $ git config --global --unset alias.st
 ```
 
 ### Links e Informações Úteis
+- GIT Documentation: [https://git-scm.com/doc](https://git-scm.com/doc)
+- GITHUB Documentation: [https://docs.github.com/](https://docs.github.com/)
 - Tech Talk: Linus Torvalds on git: [https://youtu.be/4XpnKHJAok8](https://youtu.be/4XpnKHJAok8)
 - ProGit: [https://git-scm.com/book/en/v2](https://git-scm.com/book/en/v2)
 - GitFluence: [https://gitfluence.com/](https://gitfluence.com/)
